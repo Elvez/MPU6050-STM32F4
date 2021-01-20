@@ -1,11 +1,3 @@
-################################################################################
-##
-# BY: WANDERSON M.PIMENTA
-# PROJECT MADE WITH: Qt Designer and PySide2
-# V: 1.0.0
-##
-################################################################################
-
 import sys
 import platform
 from PySide2 import QtCore, QtGui, QtWidgets
